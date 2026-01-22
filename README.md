@@ -12,6 +12,7 @@ I created a modern and responsive weather application built with **React Native 
 - 🔄 *Pull-to-refresh feature*
 - 📅 *3-day weather forecast*
 - 🌙 *Dark / Light mode toggle*
+- 🚫 *Error Handling*
 - 📱 *Clean and responsive UI*
 ---------------
 ## TECH:
